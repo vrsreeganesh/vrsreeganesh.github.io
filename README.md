@@ -8,7 +8,7 @@ My experience lies in the regions of Signal Processing, Image Processing, Comput
 
 ## Education
 Highschool: Bhavans Varuna Vidyalaya (2014 - 2016)   
-Bachelors in Technology: College of Engineering Trivandrum (2016 - 2020)
+Bachelor of Technology: College of Engineering Trivandrum (2016 - 2020)
 
 ## Contact
 mail: vrsreeganesh [at] gmail [dot] com  
