@@ -12,4 +12,4 @@ Bachelor of Technology: College of Engineering Trivandrum (2016 - 2020)
 
 ## Contact
 mail: vrsreeganesh [at] gmail [dot] com  
-alternative: vrsreeganesh [at] gmail [dot] com
+alternative: vrsreeganesh [at] cet [dot] ac [dot] in
