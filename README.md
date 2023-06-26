@@ -11,5 +11,5 @@ Bachelor of Technology: College of Engineering Trivandrum (2016 - 2020)
 
 ## Contact
 mail: vrsreeganesh [at] gmail [dot] com  
-Boston University Mail: vrs [at] bu [dot] edu
+Boston University Mail: vrs [at] bu [dot] edu  
 alternative: vrsreeganesh [at] cet [dot] ac [dot] in
