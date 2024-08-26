@@ -18,8 +18,8 @@ My interests lie in perception and control, with the former taking more preceden
 - Bachelor of Technology, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
 
 ## Experience
-- Advanced Imaging SW Engr Intern, *Intuitive Surgical*
-- Electronics Engineer, *Naval Physical and Oceanographic Laboratory*
+- Advanced Imaging SW Engr Intern, Advanced Imaging and Intelligence, *Intuitive Surgical*
+- Electronics Engineer, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
 
 ## Contact
 mail: vrsreeganesh [at] gmail [dot] com  
