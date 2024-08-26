@@ -1,5 +1,14 @@
 ## Bio
-Hi, my name is Sreeganesh and I'm an ECE graduate from College of Engineering Trivandrum and a first year MS student at Boston University, College of Engineering.
+*TLDR: I'm pretty good at Signal Processing, irrespective of context.*
+
+I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, currently interning at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence. My academic background, expertise, and interests are primarily centered around the domains of Digital Signal Processing (DSP), Applied Mathematics and AI.
+
+In addition, I have gained valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
+
+### Key Expertise:
+- Domains: Signal Processing, Computational Imaging, Machine Learning, Machine Vision, including supervised, unsupervised, and reinforcement learning.
+- Tools: Matlab, Matlab Executable CUDA(MexCuda), Numpy, SciPy, PyTorch, CUDA, CuBLAS, Nvidia Performance Primitives (NPP).
+- Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
 
 ## Research Interests
 My interests lie in perception and control, with the former taking more precedence. Most of my projects lies in Signal Processing, Image Processing, Computer Vision, Machine Learning, Statistics and Deep Learning. 
