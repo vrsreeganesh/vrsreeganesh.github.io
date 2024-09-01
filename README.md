@@ -13,6 +13,10 @@ In addition, I have gained valuable experience and proficiency in the fields of 
 ## Research Interests
 My interests lie in perception and control, with the former taking more precedence. Most of my projects lies in Signal Processing, Image Processing, Computer Vision, Machine Learning, Statistics and Deep Learning. 
 
+### Miscellaneous
+I'm writing a book!
+The book introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach to found in all kinds of R&D environments. Expected to be released by end of Fal 2024. 
+
 ## Education
 - Master of Science: Electrical and Computer Engineering, *Boston University*
 - Bachelor of Technology, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
@@ -20,6 +24,8 @@ My interests lie in perception and control, with the former taking more preceden
 ## Experience
 - Advanced Imaging SW Engr Intern, Advanced Imaging and Intelligence, *Intuitive Surgical*
 - Electronics Engineer, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
+
+
 
 ## Contact
 mail: vrsreeganesh [at] gmail [dot] com  
