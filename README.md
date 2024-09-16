@@ -21,7 +21,7 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 - Bachelor of Technology, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
 
 ## Experience
-- Teaching Assistant, EC518: Robot Learning, Electrical and Computer Engineering, *Boston University*
+- Graduate Assistant, EC518: Robot Learning, Electrical and Computer Engineering, *Boston University*
 - Advanced Imaging SW Engr Intern, Advanced Imaging and Intelligence, *Intuitive Surgical*
 - Electronics Engineer, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
 
