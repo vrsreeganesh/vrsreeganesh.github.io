@@ -25,6 +25,6 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 - Electronics Engineer, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
 
 ## Contact
-(highly suggest using this) Boston University Mail: vrs [at] bu [dot] edu  
+Boston University Mail: vrs [at] bu [dot] edu  (highly suggest using this)
 personal mail: vrsreeganesh [at] gmail [dot] com  
 alternative: vrsreeganesh [at] cet [dot] ac [dot] in
