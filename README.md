@@ -14,20 +14,17 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
 
 ### Miscellaneous
-I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. The expected release is by the end of Fall 2024.
+I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. The expected release is by the end of Fall 2024. But if you're impatient and don't mind half-cooked rice, you can check it out here: [An Introduction to Matlab x CUDA](https://vrsreeganesh.github.io/MatlabxCUDA/intro.html#)
 
 ## Education
 - Master of Science: Electrical and Computer Engineering, *Boston University*
 - Bachelor of Technology, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
 
 ## Experience
-- Graduate Assistant, EC518: Robot Learning, Electrical and Computer Engineering, *Boston University*
 - Advanced Imaging SW Engr Intern, Advanced Imaging and Intelligence, *Intuitive Surgical*
 - Electronics Engineer, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
 
-
-
 ## Contact
-mail: vrsreeganesh [at] gmail [dot] com  
-Boston University Mail: vrs [at] bu [dot] edu  
+(highly suggest using this) Boston University Mail: vrs [at] bu [dot] edu  
+personal mail: vrsreeganesh [at] gmail [dot] com  
 alternative: vrsreeganesh [at] cet [dot] ac [dot] in
