@@ -1,5 +1,5 @@
 # About Me
-*TLDR: I'm pretty good at Signal Processing, irrespective of context.*
+*TLDR: I'm pretty good at context-independent Signal Processing and AI.*
 
 I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, interning at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI.
 
@@ -14,7 +14,7 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
 
 ### Miscellaneous
-I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. The expected release is by the end of Fall 2024. But if you're impatient and don't mind half-cooked rice, you can check it out here: [An Introduction to Matlab x CUDA](https://vrsreeganesh.github.io/MatlabxCUDA/intro.html#)
+I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. The expected release is by the end of Fall 2024. But if you're impatient and don't mind half-cooked content, you can check it out here: [An Introduction to Matlab x CUDA](https://vrsreeganesh.github.io/MatlabxCUDA/intro.html#)
 
 ## Education
 - Master of Science: Electrical and Computer Engineering, *Boston University*
