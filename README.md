@@ -1,5 +1,5 @@
 # About Me
-*TLDR: I'm pretty good at context-independent Signal Processing and AI.*
+*TLDR: I'm pretty good at context-agnostic Signal Processing and data-driven methods.*
 
 I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, interning at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI.
 
@@ -9,7 +9,7 @@ In addition, I have gained valuable experience and proficiency in the fields of 
 Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. 
 
 ### Key Expertise:
-- Domains: Signal Processing, Computational Imaging, Machine Learning, Machine Vision, including supervised, unsupervised, and reinforcement learning.
+- Domains: Signal Processing: Audio, Speech and Image, Computational Imaging, Machine Learning, Machine Vision, Supervised, Unsupervised, and Reinforcement Learning.
 - Tools: Matlab, Matlab Executable CUDA(MexCuda), Numpy, SciPy, PyTorch, CUDA, CuBLAS, Nvidia Performance Primitives (NPP).
 - Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
 
@@ -21,6 +21,7 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 - Bachelor of Technology, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
 
 ## Experience
+- MS Project Intern, Yobe Inc
 - Advanced Imaging SW Engr Intern, Advanced Imaging and Intelligence, *Intuitive Surgical*
 - Electronics Engineer, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
 
