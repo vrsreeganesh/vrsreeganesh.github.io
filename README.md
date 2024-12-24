@@ -14,16 +14,19 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
 
 ### Miscellaneous
-I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. The expected release is by the end of Fall 2024. But if you're impatient and don't mind half-cooked content, you can check it out here: [An Introduction to Matlab x CUDA](https://vrsreeganesh.github.io/MatlabxCUDA/intro.html#)
+I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. Its under construction but if you're impatient and don't mind half-cooked content, you can check it out here: [An Introduction to Matlab x CUDA](https://vrsreeganesh.github.io/MatlabxCUDA/intro.html#)
 
 ## Education
-- Master of Science: Electrical and Computer Engineering, *Boston University*
-- Bachelor of Technology, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
+- **Master of Science**: Electrical and Computer Engineering, *Boston University*
+- **Bachelor of Technology**, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
 
 ## Experience
-- MS Project Intern, Yobe Inc
-- Advanced Imaging SW Engr Intern, Advanced Imaging and Intelligence, *Intuitive Surgical*
-- Electronics Engineer, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
+- **MS Project Intern**, Yobe Inc
+- **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, *Intuitive Surgical*
+- **Electronics Engineer**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
+- **Project Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
+- **Undergraduate Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
+- **Undergraduate Assistant**, Department of Electronics and Communication Engineering, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
 
 ## Contact
 Boston University Mail: vrs [at] bu [dot] edu  (highly suggest using this)
