@@ -70,7 +70,7 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 **Sim2Real AV-Agent Deployment**, *Boston University, College of Engineering*
 - Pioneered new approach to reduce the simulation-reality gap in autonomous driving without latency trade-offs.
 - Applied Neural-Style-Transfer to create texture-independent state-to-action policies for autonomous agents.
-- Achieved results surpassing contemporary methods:[A Style Transfer Approach To Appearance Agnostic Agents](https://github.com/vrsreeganesh/StyleTransferApproachToAppearanceAgnosticAgents/blob/main/EC523_ProjectReport_SreeganeshValatharaRajendran.pdf)
+- Achieved results surpassing contemporary methods: [A Style Transfer Approach To Appearance Agnostic Agents](https://github.com/vrsreeganesh/StyleTransferApproachToAppearanceAgnosticAgents/blob/main/EC523_ProjectReport_SreeganeshValatharaRajendran.pdf)
  
 
 
@@ -133,11 +133,37 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Studied over 200 papers and implemented 30+ image steganography methods in MATLAB and Python.
 - Performed as part of undergraduate assistant duty to assist professor's graduate students (assisted two students).
 
-### Miscellaneous
+## Miscellaneous
+
+### Matlab x CUDA
 I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. Its under construction but if you're impatient and don't mind half-cooked content, you can check it out here: [An Introduction to Matlab x CUDA](https://vrsreeganesh.github.io/MatlabxCUDA/intro.html#)
+
+### Online Learning
+
+- [Machine Learning](https://www.coursera.org/account/accomplishments/records/C3QMKPURUE4K), *Stanford University*
+- [Data Science: Foundations using R Specialization](https://www.coursera.org/account/accomplishments/specialization/448DRD5CP3BJ), *Johns Hopkins University*
+- [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/records/DU82QGR6NXGU), *Johns Hopkins University*
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/S5LNWNHS3C8D), *Deeplearning. AI*
+- [R Programming](https://www.coursera.org/account/accomplishments/records/7FPVU9PMW69R), *Johns Hopkins University*
+- [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/T6SHXFKUKM37), *Johns Hopkins University*
+- [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/UMK922MMAMEB), *Johns Hopkins University*
+- [Reproducible Research](https://www.coursera.org/account/accomplishments/records/LFUY3QTNAR3Y), *Johns Hopkins University*
+- [Statistical Inference](https://www.coursera.org/account/accomplishments/records/4JRRY5J4R4R8), *Johns Hopkins University*
+- [Regression Models](https://www.coursera.org/account/accomplishments/records/CP63HLYP57CF), *Johns Hopkins University*
+- [Practical Machine Learning](https://www.coursera.org/account/accomplishments/records/TC8D47E8MQ8W), *Johns Hopkins University*
+- [Developing Data Products](https://www.coursera.org/account/accomplishments/records/SSSKY6SEB6XK), *Johns Hopkins University*
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/2ZRFGW7EG9MS), *Deeplearning. AI*
+- [Improving Deep Neural Networks: Hyperparameter tuning, Regularisation and Optimization](https://www.coursera.org/account/accomplishments/records/XEE7AFZR2HUA), *Deeplearning. AI*
+- [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/JKCBWTCZU2BU), *Deeplearning. AI*
+- [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/6822CBKF4HSK), *Deeplearning. AI*
+- [Sequence Models](https://www.coursera.org/account/accomplishments/records/A58XSTA7WJD6), *Deeplearning. AI*
+
+### Self Learning
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. 
+- Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction. MIT Press.
 
 
 ## Contact
-Boston University Mail: vrs [at] bu [dot] edu  (highly suggest using this)
+Boston University Mail: vrs [at] bu [dot] edu  (I highly suggest using this)
 personal mail: vrsreeganesh [at] gmail [dot] com  
 alternative: vrsreeganesh [at] cet [dot] ac [dot] in
