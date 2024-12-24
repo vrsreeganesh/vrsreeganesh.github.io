@@ -13,7 +13,6 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Tools: Matlab, Matlab Executable CUDA(MexCuda), Numpy, SciPy, PyTorch, CUDA, CuBLAS, Nvidia Performance Primitives (NPP).
 - Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
 
-
 ## Education
 - **Master of Science**: Electrical and Computer Engineering, *Boston University*
 - **Bachelor of Technology**, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
@@ -85,7 +84,6 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - The policy function stage comprises of a CNN and a FCN for mapping images to car control commands.
 - Secured **second prize** in class competition. 
 
-
 <!-- =============================== -->
 <!-- =============================== -->
 <!-- =============================== -->
@@ -96,39 +94,47 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Engineered MATLAB-based vectorized signal simulator for diverse ocean environments and sensor arrays.
 - Developed to assist and assess sonar imaging algorithms. Achieved 7x speed by further translating to CUDA C.
 
-
-
-
-
-
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
 **Computational Sonar Imaging**, *Naval Physical and Oceanographic Laboratory*
 - Realised four sonar imaging algorithms each for front-looking, side-scan, and synthetic-aperture sonars.
 - Utilized MATLAB for beamforming-based imaging, employing full aperture, dynamic aperture, constant range-cell, and variable range-cell techniques. Optimized implementations for efficiency using vectorized versions.
 - Translated and enhanced system to C for deployment on diverse marine vehicle DSP systems.
 
-
-
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
 **DSP Firmware**, *Naval Physical and Oceanographic Laboratory*
 - Developed DSP firmware with functionalities meeting client specifications and project constraints.
 - Programmed, tested, and integrated functionalities in MATLAB; later translated to C (mainly C89).
 - Unified, tested, and assessed DSP firmware for deployment on TIVA-C, an ARM Cortex-M4F based MCU.
 
-
-
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
 **Attendance Registration Using Face Recognition**, *College of Engineering Trivandrum*
 - Devised system employing Deep Learning based face recognition methods for student attendance registration.
 - Trained and utilized CNN and fully-connected neural network for feature extraction and student identification.
 - Submitted, presented and showcased system to project committee, faculty, and students as part of curriculum.
 
-
-
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- =============================== -->
 **Image Steganography**, *College of Engineering Trivandrum*
 - Studied over 200 papers and implemented 30+ image steganography methods in MATLAB and Python.
 - Performed as part of undergraduate assistant duty to assist professor's graduate students (assisted two students).
 
 ### Miscellaneous
 I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. Its under construction but if you're impatient and don't mind half-cooked content, you can check it out here: [An Introduction to Matlab x CUDA](https://vrsreeganesh.github.io/MatlabxCUDA/intro.html#)
-
 
 
 ## Contact
