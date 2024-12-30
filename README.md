@@ -33,11 +33,10 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **MS Research Project**, *Electrical and Computer Engineering, BU* 
-- Developed and trained a Wave-U-Net variant to reduce black-box ASR transcription errors (word-error-rate).
+- Designed and trained a Wave-U-Net variant to reduce black-box ASR transcription errors (word-error-rate).
 - Designed a custom loss function leveraging ASR system properties, STFT features, and auditory perception.
-- Achieved WER reductions on OpenAI Whisper: **6.7**% at SNR = 3, **4.2**% at SNR = 6 and **1.37**\% at SNR = 9.
-- Code, Poster and Paper available at : 
-[Speech Enhancement for Robust Automatic Speech Recognition](https://github.com/vrsreeganesh/asr-enhancer)
+- Achieved WER reductions on OpenAI Whisper: **6.7%** at SNR = 3, **4.2%** at SNR = 6 and **1.37%** at SNR = 9.
+- Code, Poster and Paper available at: [Speech Enhancement for Robust Automatic Speech Recognition](https://github.com/vrsreeganesh/asr-enhancer)
 
 
 <!-- =============================== -->
@@ -46,9 +45,9 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Advanced Imaging Internship**, *Advanced Imaging & Intelligence Group, Intuitive*
-- Designed and implemented multiple imaging stages to enhance the existing pipeline for specific surgical contexts.
-- Integrated CUDA framework with MATLAB stages to achieve real-time performance in existing imaging pipelines.
-- Assessed the robustness of an imaging stage within the pipeline. Identified weaknesses, and provided feedback.
+- Designed and implemented multiple imaging stages in Matlab and CUDA, to enhance the existing pipeline by highlighting procedure-specific features for **3** surgical procedures, enabling faster procedure completion.
+- Wrote MATLAB library to integrate a proprietary inhouse CUDA framework with their legacy MATLAB imaging pipelines to achieve near real-time performance. The integration also enables uniformity and code re-use.
+- Assessed the robustness of a prototype imaging stage. Wrote scripts for automated and rigorous testing to identify weaknesses, document associated metrics, all to provide actionable feedback.
 
 
 <!-- =============================== -->
@@ -57,9 +56,10 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Audio Denoising**, *Boston University, College of Engineering*
-- Developed an audio denoising system combining  spectral subtraction with a fully connected neural network.
+- Developed an audio denoising pipeline containing a classical audio processing stage and a neural-net based stage.
+- The audio processing stage is based on smoothed spectral-subtraction and neural-net stage is a **4** layered FCN.
 - Introduced novel method of combining heterodyning and denoising to overcome long-tail problem in neural nets.
-- Code and Paper available at: [Audio Denoising: A Heterodyned Approach](https://github.com/vrsreeganesh/AudioDenoising_A_HeteroDyned_Approach)
+- Code and Report available at: [*Audio Denoising: A Heterodyned Approach*](https://github.com/vrsreeganesh/AudioDenoising_A_HeteroDyned_Approach)
  
 
 <!-- =============================== -->
@@ -68,9 +68,11 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Sim2Real AV-Agent Deployment**, *Boston University, College of Engineering*
-- Pioneered new approach to reduce the simulation-reality gap in autonomous driving without latency trade-offs.
-- Applied Neural-Style-Transfer to create texture-independent state-to-action policies for autonomous agents.
-- Achieved results surpassing contemporary methods: [A Style Transfer Approach To Appearance Agnostic Agents](https://github.com/vrsreeganesh/StyleTransferApproachToAppearanceAgnosticAgents/blob/main/EC523_ProjectReport_SreeganeshValatharaRajendran.pdf)
+- SIM2REAL is a robotics concept involving training an agent in simulation before deploying in real environments.
+- The project involved pioneering a new domain randomization approach to enable robust SIM2REAL for vehicles. 
+- Configured a robotic agent in CARLA and an RC car to collect expert driving data through manual operation, implemented diverse perception-to-control pipelines, and trained the vehicle pipelines using imitation learning.
+- The proposed method produced significant improvements in agent performance: obtained an average decrease of **17%** in Steer-MAE, **11.5%** in Steer-SW-MAE, **11.5%** in Action-MAE. 
+- Succesfully created an agent agnostic to appearance differences, enabling successful and similar performance in both simulation and reality. Code and Paper: [*A Style Transfer Approach To Appearance Agnostic Agents*](https://github.com/vrsreeganesh/StyleTransferApproachToAppearanceAgnosticAgents/blob/main/EC523_ProjectReport_SreeganeshValatharaRajendran.pdf)
  
 
 
@@ -100,9 +102,9 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Computational Sonar Imaging**, *Naval Physical and Oceanographic Laboratory*
-- Realised four sonar imaging algorithms each for front-looking, side-scan, and synthetic-aperture sonars.
-- Utilized MATLAB for beamforming-based imaging, employing full aperture, dynamic aperture, constant range-cell, and variable range-cell techniques. Optimized implementations for efficiency using vectorized versions.
-- Translated and enhanced system to C for deployment on diverse marine vehicle DSP systems.
+- Realised **4** computational imaging algorithms **each** for front-looking, side-scan, and synthetic-aperture SONARs.
+- Wrote MATLAB pipelines for beamforming-based imaging, employing full-aperture, dynamic-aperture, constant range-cell, and variable range-cell methods. 
+- Wrote vectorized MATLAB code for a low latency implementation.
 
 <!-- =============================== -->
 <!-- =============================== -->
@@ -110,8 +112,9 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **DSP Firmware**, *Naval Physical and Oceanographic Laboratory*
-- Developed DSP firmware with functionalities meeting client specifications and project constraints.
-- Programmed, tested, and integrated functionalities in MATLAB; later translated to C (mainly C89).
+- Designed and developed DSP firmware with functionalities meeting client specifications and project constraints.
+- Involves signal detection using matched-filtering and processing detected signal according to system mode.
+- Programmed, tested, and integrated functionalities in MATLAB; later translated to C (primarily C89).
 - Unified, tested, and assessed DSP firmware for deployment on TIVA-C, an ARM Cortex-M4F based MCU.
 
 <!-- =============================== -->
@@ -120,8 +123,8 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Attendance Registration Using Face Recognition**, *College of Engineering Trivandrum*
-- Devised system employing Deep Learning based face recognition methods for student attendance registration.
-- Trained and utilized CNN and fully-connected neural network for feature extraction and student identification.
+- Created an attendance registration system that uses a deep learning pipeline to deploy in a classroom setting. 
+- The machine learning stage consists of a CNN-based feature-extractor and a FCN based feature-classifier. 
 - Submitted, presented and showcased system to project committee, faculty, and students as part of curriculum.
 
 <!-- =============================== -->
@@ -130,7 +133,9 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Image Steganography**, *College of Engineering Trivandrum*
-- Studied over 200 papers and implemented 30+ image steganography methods in MATLAB and Python.
+- Studied over 200 publications and reproduced 30+ image steganography methods in MATLAB and Python. 
+- Publications consists of classical steganography methods and data-driven steganography methods. 
+- Conducted to generate metrics for baseline comparisons added to graduate student's thesis and publications. 
 - Performed as part of undergraduate assistant duty to assist professor's graduate students (assisted two students).
 
 ## Miscellaneous
