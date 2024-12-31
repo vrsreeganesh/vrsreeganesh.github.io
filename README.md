@@ -1,9 +1,9 @@
 # About Me
 *TLDR: I'm pretty good at context-agnostic data-driven Signal Processing.*
 
-I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, interning at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI.
+I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, previously interned at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI.
 
-In addition, I have gained valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
+In addition, I have gained valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
 
 ## Research Interests
 Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. 
