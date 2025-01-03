@@ -14,16 +14,16 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
 
 ## Education
-- **Master of Science**: Electrical and Computer Engineering, *Boston University*
-- **Bachelor of Technology**, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
+- **Master of Science**: Electrical and Computer Engineering, [*Boston University*](http://www.bu.edu)
+- **Bachelor of Technology**, Electronics and Communication Engineering, [*College of Engineering Trivandrum*](https://www.cet.ac.in)
 
 ## Experience
-- **MS Project Intern**, Yobe Inc
-- **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, *Intuitive Surgical*
-- **Electronics Engineer**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-- **Project Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-- **Undergraduate Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-- **Undergraduate Assistant**, Department of Electronics and Communication Engineering, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
+- **MS Project Intern**, [Yobe Inc](https://yobeinc.com)
+- **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, [*Intuitive Surgical*](https://www.intuitive.com/en-us)
+- **Electronics Engineer**, [Naval Physical and Oceanographic Laboratory](https://www.drdo.gov.in/drdo/labs-and-establishments/naval-physical-oceanographic-laboratory-npol), *Defence Research and Development Organisation*
+- **Project Intern**, [Naval Physical and Oceanographic Laboratory](https://www.drdo.gov.in/drdo/labs-and-establishments/naval-physical-oceanographic-laboratory-npol), *Defence Research and Development Organisation*
+- **Undergraduate Intern**, [Naval Physical and Oceanographic Laboratory](https://www.drdo.gov.in/drdo/labs-and-establishments/naval-physical-oceanographic-laboratory-npol), *Defence Research and Development Organisation*
+- **Undergraduate Assistant**, Department of Electronics and Communication Engineering, [*College of Engineering Trivandrum*](https://www.cet.ac.in)
 
 
 ## Projects
@@ -169,6 +169,6 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 
 
 ## Contact
-Boston University Mail: vrs [at] bu [dot] edu  (I highly suggest using this)
-personal mail: vrsreeganesh [at] gmail [dot] com  
-alternative: vrsreeganesh [at] cet [dot] ac [dot] in
+- Boston University Mail: vrs [at] bu [dot] edu  (I highly suggest using this)
+- personal mail: vrsreeganesh [at] gmail [dot] com  
+- alternative: vrsreeganesh [at] cet [dot] ac [dot] in
