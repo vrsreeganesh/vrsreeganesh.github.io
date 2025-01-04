@@ -1,9 +1,9 @@
 # About Me
-*TLDR: I'm pretty good at context-agnostic Signal Processing and data-driven engineering.*
+*TLDR: I'm pretty good at context-agnostic data-driven Signal Processing.*
 
-I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, interning at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI.
+I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, previously interned at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI.
 
-In addition, I have gained valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
+In addition, I have gained valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
 
 ## Research Interests
 Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. 
@@ -14,29 +14,17 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
 
 ## Education
-- **Master of Science**: Electrical and Computer Engineering, *Boston University*
-- **Bachelor of Technology**, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
+- **Master of Science**: Electrical and Computer Engineering, [*Boston University*](http://www.bu.edu)
+- **Bachelor of Technology**, Electronics and Communication Engineering, [*College of Engineering Trivandrum*](https://www.cet.ac.in)
 
 ## Experience
 - **MS Project Intern**, Yobe Inc
-    - Designed and trained a Wave-U-Net variant to reduce black-box ASR transcription errors (word-error-rate).
-    - Achieved WER reductions on OpenAI Whisper: **6.7%** at SNR = 3, **4.2%** at SNR = 6 and **1.37%** at SNR = 9.
 - **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, *Intuitive Surgical*
-    - Designed and implemented multiple imaging stages in Matlab and CUDA, to enhance pipeline for **3** surgical procedures.
-    - Wrote MATLAB library to integrate a proprietary inhouse CUDA framework with their legacy MATLAB imaging pipelines.
-    - Wrote scripts for automated testing of prototype imaging stage. Identified weaknesses and provided feedback.
 - **Electronics Engineer**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-    - Designed fast signal simulator for underwater sensor arrays: uniform linear arrays (ULAs) and planar arrays. 
-    - Realised **4** computational imaging pipelines **each** for front-looking, side-scan, and synthetic-aperture SONARs.
 - **Project Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-    - Designed and developed DSP firmware with functionalities meeting client specifications and project constraints.
-    - Unified, tested, and assessed DSP firmware for deployment on TIVA-C, an ARM Cortex-M4F based MCU.
 - **Undergraduate Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-    - Studied over 200 publications and reproduced 30+ image classical and data-driven steganography methods in MATLAB and Python. 
-    - Conducted to generate metrics for baseline comparisons added to graduate student's thesis and publications. 
 - **Undergraduate Assistant**, Department of Electronics and Communication Engineering, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
-    - Developed and simulated advanced beamforming techniques using MATLAB for underwater SONAR systems, focusing on spatial filtering and signal enhancement.  
-    - Analyzed noise effects and beam steering to optimize signal detection under varying SNR conditions.  
+
 
 ## Projects
 <!-- =============================== -->
@@ -181,6 +169,6 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 
 
 ## Contact
-Boston University Mail: vrs [at] bu [dot] edu  (I highly suggest using this)
-personal mail: vrsreeganesh [at] gmail [dot] com  
-alternative: vrsreeganesh [at] cet [dot] ac [dot] in
+- Boston University Mail: vrs [at] bu [dot] edu  (I highly suggest using this)
+- personal mail: vrsreeganesh [at] gmail [dot] com  
+- alternative: vrsreeganesh [at] cet [dot] ac [dot] in
