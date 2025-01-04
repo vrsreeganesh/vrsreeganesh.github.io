@@ -17,8 +17,10 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - **Master of Science**: Electrical and Computer Engineering, [*Boston University*](http://www.bu.edu)
 - **Bachelor of Technology**, Electronics and Communication Engineering, [*College of Engineering Trivandrum*](https://www.cet.ac.in)
 
+
+
 ## Experience
-- **MS Project Intern**, Yobe Inc
+<!-- - **MS Project Intern**, Yobe Inc
     - Designed and trained a Wave-U-Net variant to reduce black-box ASR transcription errors (word-error-rate).
     - Achieved WER reductions on OpenAI Whisper: **6.7%** at SNR = 3, **4.2%** at SNR = 6 and **1.37%** at SNR = 9.
 - **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, *Intuitive Surgical*
@@ -36,8 +38,15 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
     - Conducted to generate metrics for baseline comparisons added to graduate student's thesis and publications. 
 - **Undergraduate Assistant**, Department of Electronics and Communication Engineering, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
     - Developed and simulated advanced beamforming techniques using MATLAB for underwater SONAR systems, focusing on spatial filtering and signal enhancement.  
-    - Analyzed noise effects and beam steering to optimize signal detection under varying SNR conditions.  
+    - Analyzed noise effects and beam steering to optimize signal detection under varying SNR conditions.   -->
 
+
+- **MS Project Intern**, [Yobe Inc](https://yobeinc.com)
+- **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, [*Intuitive Surgical*](https://www.intuitive.com/en-us)
+- **Electronics Engineer**, [Naval Physical and Oceanographic Laboratory](https://www.drdo.gov.in/drdo/labs-and-establishments/naval-physical-oceanographic-laboratory-npol), *Defence Research and Development Organisation*
+- **Project Intern**, [Naval Physical and Oceanographic Laboratory](https://www.drdo.gov.in/drdo/labs-and-establishments/naval-physical-oceanographic-laboratory-npol), *Defence Research and Development Organisation*
+- **Undergraduate Intern**, [Naval Physical and Oceanographic Laboratory](https://www.drdo.gov.in/drdo/labs-and-establishments/naval-physical-oceanographic-laboratory-npol), *Defence Research and Development Organisation*
+- **Undergraduate Assistant**, Department of Electronics and Communication Engineering, [*College of Engineering Trivandrum*](https://www.cet.ac.in)
 
 ## Projects
 <!-- =============================== -->
