@@ -160,11 +160,33 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Conducted to generate metrics for baseline comparisons added to graduate student's thesis and publications. 
 - Performed as part of undergraduate assistant duty to assist professor's graduate students (assisted two students).
 
+
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
+<!-- Miscellaneous = Miscellaneous = Miscellaneous -->
 ## Miscellaneous
 
+<!-- Matlab x CUDA = Matlab x CUDA -->
+<!-- Matlab x CUDA = Matlab x CUDA -->
+<!-- Matlab x CUDA = Matlab x CUDA -->
+<!-- Matlab x CUDA = Matlab x CUDA -->
+<!-- Matlab x CUDA = Matlab x CUDA -->
 ### Matlab x CUDA
 I'm writing a book! It introduces engineers to integrating MATLAB with CUDA backends to develop low-latency pipelines, an approach commonly used in various R&D environments. Its under construction but if you're impatient and don't mind half-cooked content, you can check it out here: [An Introduction to Matlab x CUDA](https://vrsreeganesh.github.io/MatlabxCUDA/intro.html#)
 
+
+<!-- Coursera = Coursera = Coursera -->
+<!-- Coursera = Coursera = Coursera -->
+<!-- Coursera = Coursera = Coursera -->
+<!-- Coursera = Coursera = Coursera -->
+<!-- Coursera = Coursera = Coursera -->
 ### Online Learning
 
 - [Machine Learning](https://www.coursera.org/account/accomplishments/records/C3QMKPURUE4K), *Stanford University*
@@ -185,11 +207,31 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/6822CBKF4HSK), *Deeplearning. AI*
 - [Sequence Models](https://www.coursera.org/account/accomplishments/records/A58XSTA7WJD6), *Deeplearning. AI*
 
+
+<!-- AUV = AUV = AUV = AUV = AUV = AUV -->
+<!-- AUV = AUV = AUV = AUV = AUV = AUV -->
+<!-- AUV = AUV = AUV = AUV = AUV = AUV -->
+<!-- AUV = AUV = AUV = AUV = AUV = AUV -->
+<!-- AUV = AUV = AUV = AUV = AUV = AUV -->
+### Autonomous Underwater Vehicles: A Perception \& Control Approach
+This project leverages my expertise in signal processing, reinforcement learning, software development, and deep learning. The primary objective is to design and implement, from scratch, a simulation and AUV signal processing pipeline. This pipeline aims to enable a reconnaissance/surveillance AUV to autonomously monitor underwater areas and identify unobserved or foreign objects within the water space. The project is currently under development, but you can explore its progress at [AUV Repository](https://github.com/vrsreeganesh/AUV/tree/main).
+
+
+
+<!-- Books = Books = Books = Books -->
+<!-- Books = Books = Books = Books -->
+<!-- Books = Books = Books = Books -->
+<!-- Books = Books = Books = Books -->
+<!-- Books = Books = Books = Books -->
 ### Self Learning
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. 
 - Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction. MIT Press.
 
-
+<!-- Contact = Contact = Contact = Contact -->
+<!-- Contact = Contact = Contact = Contact -->
+<!-- Contact = Contact = Contact = Contact -->
+<!-- Contact = Contact = Contact = Contact -->
+<!-- Contact = Contact = Contact = Contact -->
 ## Contact
 - *Boston University Mail*: vrs [at] bu [dot] edu  (I highly suggest using this)
 - *personal mail*: vrsreeganesh [at] gmail [dot] com  
