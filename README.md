@@ -213,8 +213,8 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 <!-- AUV = AUV = AUV = AUV = AUV = AUV -->
 <!-- AUV = AUV = AUV = AUV = AUV = AUV -->
 <!-- AUV = AUV = AUV = AUV = AUV = AUV -->
-### Autonomous Underwater Vehicles: A Perception \& Control Approach
-This project leverages my expertise in signal processing, reinforcement learning, software development, and deep learning. The primary objective is to design and implement, from scratch, a simulation and AUV signal processing pipeline. This pipeline aims to enable a reconnaissance/surveillance AUV to autonomously monitor underwater areas and identify unobserved or foreign objects within the water space. The project is currently under development, but you can explore its progress at [AUV Repository](https://github.com/vrsreeganesh/AUV/tree/main).
+### Autonomous Underwater Vehicles: A Perception & Control Approach
+This project leverages my expertise in signal processing, reinforcement learning, software development, and deep learning. The primary objective is to design and implement, from scratch, a simulation and AUV signal processing pipeline. This pipeline aims to enable a reconnaissance/surveillance AUV to autonomously monitor underwater areas and identify unobserved or foreign objects within the "water"-space. The project is currently under development, but you can explore its progress at [AUV Repository](https://github.com/vrsreeganesh/AUV/tree/main).
 
 
 
