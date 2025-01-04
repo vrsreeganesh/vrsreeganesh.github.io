@@ -19,11 +19,24 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 
 ## Experience
 - **MS Project Intern**, Yobe Inc
+    - Designed and trained a Wave-U-Net variant to reduce black-box ASR transcription errors (word-error-rate).
+    - Achieved WER reductions on OpenAI Whisper: **6.7%** at SNR = 3, **4.2%** at SNR = 6 and **1.37%** at SNR = 9.
 - **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, *Intuitive Surgical*
+    - Designed and implemented multiple imaging stages in Matlab and CUDA, to enhance pipeline for **3** surgical procedures.
+    - Wrote MATLAB library to integrate a proprietary inhouse CUDA framework with their legacy MATLAB imaging pipelines.
+    - Wrote scripts for automated testing of prototype imaging stage. Identified weaknesses and provided feedback.
 - **Electronics Engineer**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
+    - Designed fast signal simulator for underwater sensor arrays: uniform linear arrays (ULAs) and planar arrays. 
+    - Realised **4** computational imaging pipelines **each** for front-looking, side-scan, and synthetic-aperture SONARs.
 - **Project Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
+    - Designed and developed DSP firmware with functionalities meeting client specifications and project constraints.
+    - Unified, tested, and assessed DSP firmware for deployment on TIVA-C, an ARM Cortex-M4F based MCU.
 - **Undergraduate Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
+    - Studied over 200 publications and reproduced 30+ image classical and data-driven steganography methods in MATLAB and Python. 
+    - Conducted to generate metrics for baseline comparisons added to graduate student's thesis and publications. 
 - **Undergraduate Assistant**, Department of Electronics and Communication Engineering, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
+    - Developed and simulated advanced beamforming techniques using MATLAB for underwater SONAR systems, focusing on spatial filtering and signal enhancement.  
+    - Analyzed noise effects and beam steering to optimize signal detection under varying SNR conditions.  
 
 
 ## Projects
