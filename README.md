@@ -9,9 +9,9 @@ In addition, I have gained valuable experience and proficiency in the fields of 
 Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. 
 
 ### Key Expertise:
-- Domains: Signal Processing: Audio, Speech and Image, Computational Imaging, Machine Learning, Machine Vision, Supervised, Unsupervised, and Reinforcement Learning.
-- Tools: Matlab, Matlab Executable CUDA(MexCuda), Numpy, SciPy, PyTorch, CUDA, CuBLAS, Nvidia Performance Primitives (NPP).
-- Programming Languages: C, C++, CUDA, Python, Matlab, and Bash
+- *Domains*: Signal Processing: Audio, Speech and Image, Computational Imaging, Machine Learning, Machine Vision, Supervised, Unsupervised, and Reinforcement Learning.
+- *Tools*: Matlab, Matlab Executable CUDA(MexCuda), Numpy, SciPy, PyTorch, CUDA, CuBLAS, Nvidia Performance Primitives (NPP).
+- *Programming Languages*: C, C++, CUDA, Python, Matlab, and Bash
 
 ## Education
 - **Master of Science**: Electrical and Computer Engineering, [*Boston University*](http://www.bu.edu)
@@ -182,6 +182,6 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 
 
 ## Contact
-- Boston University Mail: vrs [at] bu [dot] edu  (I highly suggest using this)
-- personal mail: vrsreeganesh [at] gmail [dot] com  
-- alternative: vrsreeganesh [at] cet [dot] ac [dot] in
+- *Boston University Mail*: vrs [at] bu [dot] edu  (I highly suggest using this)
+- *personal mail*: vrsreeganesh [at] gmail [dot] com  
+- *alternative*: vrsreeganesh [at] cet [dot] ac [dot] in
