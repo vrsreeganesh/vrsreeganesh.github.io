@@ -1,5 +1,5 @@
 # About Me
-*TLDR: I'm pretty good at context-agnostic data-driven Signal Processing.*
+*TLDR: I'm pretty good at context-agnostic Signal Processing and a **broad** range of related domains.*
 
 I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, previously interned at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI.
 
