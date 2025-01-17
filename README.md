@@ -124,7 +124,7 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Computational Sonar Imaging**, *Naval Physical and Oceanographic Laboratory*
-- Realised **4** computational imaging algorithms **each** for front-looking, side-scan, and synthetic-aperture SONARs.
+- Realised **4** computational imaging algorithms **each** for front-looking and side-scan imaging SONARs.
 - Wrote MATLAB pipelines for beamforming-based imaging, employing full-aperture, dynamic-aperture, constant range-cell, and variable range-cell methods. 
 - Wrote vectorized MATLAB code for a low latency implementation.
 
