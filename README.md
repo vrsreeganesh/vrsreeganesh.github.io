@@ -1,16 +1,16 @@
 # About Me
-*TLDR: I'm pretty good at context-agnostic Signal Processing and a **broad** range of related domains.*
+*TL;DR: I'm pretty good at context-agnostic Signal Processing, Applied Machine Learning and High Performance Computing.*
 
-I am a graduate student in the Department of Electrical and Computer Engineering at Boston University, previously interned at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI.
+I am a *Master of Science: Electrical and Computer Engineering* graduate from the Department of Electrical and Computer Engineering at Boston University, previously interned at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI. 
 
-In addition, I have gained valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
+My endeavours has also allowed me to gain valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
 
 ## Research Interests
 Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. 
 
 ### Key Expertise:
 - *Domains*: Signal Processing: Audio, Speech and Image, Computational Imaging, Machine Learning, Machine Vision, Supervised, Unsupervised, and Reinforcement Learning.
-- *Tools*: Matlab, Matlab Executable CUDA(MexCuda), Numpy, SciPy, PyTorch, CUDA, CuBLAS, Nvidia Performance Primitives (NPP).
+- *Tools*: Matlab, Matlab Executable CUDA(MexCuda), Numpy, SciPy, PyTorch, CUDA, CuBLAS, Nvidia Performance Primitives (NPP), LibTorch (C++ backend/API to PyTorch).
 - *Programming Languages*: C, C++, CUDA, Python, Matlab, and Bash
 
 ## Education
@@ -189,6 +189,8 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 <!-- Coursera = Coursera = Coursera -->
 ### Online Learning
 
+The following courses allowed me to gain a deep and rigorous understanding of machine learning and the data-driven paradigm. Thanks to [*College of Engineering Trivandrum*](https://www.cet.ac.in) for sponsoring and allowing me to learn free of cost. 
+
 - [Machine Learning](https://www.coursera.org/account/accomplishments/records/C3QMKPURUE4K), *Stanford University*
 - [Data Science: Foundations using R Specialization](https://www.coursera.org/account/accomplishments/specialization/448DRD5CP3BJ), *Johns Hopkins University*
 - [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/records/DU82QGR6NXGU), *Johns Hopkins University*
@@ -214,10 +216,12 @@ I'm writing a book! It introduces engineers to integrating MATLAB with CUDA back
 <!-- AUV = AUV = AUV = AUV = AUV = AUV -->
 <!-- AUV = AUV = AUV = AUV = AUV = AUV -->
 ### Autonomous Underwater Vehicles: A Perception & Control Approach
-This "side"-project is more of an attempt to test my deep understanding of signal processing, reinforcement learning and every other related topic under perception and control, and my ability to tie them together. 
-The primary objective is to design and implemented, from scratch, a signal simulation pipeline and a perception & control pipeline to simulate a recon AUV in a customizable sea-floor. 
-The AUV is designed to autonomously monitor underwater areas and flag any foreign objects in the water-space. 
-The project is written in C++ (and LibTorch) and currently under development, but you can explore its progress at [AUV Repository](https://github.com/vrsreeganesh/AUV/tree/main).
+
+This side-project is an attempt to bring together my skills in beamforming-based computational imaging, signal simulation, perception \& control and reinforcement learning to enable the simulation and demonstration of an AUV designed for seafloor surveillance. 
+
+The objectives involve the creation of signal simulation pipelines to mimic the signals received by the uniform-linear-arrays of the AUV in a real underwater environment, imaging pipeline to produce acoustic images from the simulated signals using beamforming techniques, and a control pipeline that takes the acoustic images and produce state-to-action mappings to control the AUV. 
+
+The project is written in C++ (with LibTorch as primary library) and  is currently under development, but you can explore its progress at [AUV Repository](https://github.com/vrsreeganesh/AUV/tree/main).
 
 
 
