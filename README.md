@@ -1,12 +1,12 @@
 # About Me
-*TL;DR: I'm pretty good at context-agnostic Signal Processing, Applied Machine Learning and High Performance Computing.*
+*TL;DR: I'm pretty good at context-agnostic Signal Processing, Machine/Deep Learning and High Performance Computing.*
 
 I am a *Master of Science: Electrical and Computer Engineering* graduate from the Department of Electrical and Computer Engineering at Boston University, previously interned at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI. 
 
 My endeavours has also allowed me to gain valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
 
 ## Research Interests
-Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. 
+Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. Currently, I'm learning how to build low-latency C++ pipelines for such pipelines. While building a pipeline that works is a great achievement, building a pipeline that produces outputs faster is even better.
 
 ### Key Expertise:
 - *Domains*: Signal Processing: Audio, Speech and Image, Computational Imaging, Machine Learning, Machine Vision, Supervised, Unsupervised, and Reinforcement Learning.
@@ -68,8 +68,9 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 **Advanced Imaging Internship**, *Advanced Imaging & Intelligence Group, Intuitive*
 - Designed and implemented multiple imaging stages in Matlab and CUDA, to enhance the existing pipeline by highlighting procedure-specific features for **3** surgical procedures, enabling faster procedure completion.
-- Wrote MATLAB library to integrate a proprietary inhouse CUDA framework with their legacy MATLAB imaging pipelines to achieve near real-time performance. The integration also enables uniformity and code re-use.
+- Wrote MATLAB library to integrate proprietary inhouse CUDA framework with legacy MATLAB imaging pipelines to achieve near real-time performance.
 - Assessed the robustness of a prototype imaging stage. Wrote scripts for automated and rigorous testing to identify weaknesses, document associated metrics, all to provide actionable feedback.
+- Initiated and produced documentation for in-house High Performance Computing library to enable company-wide adoption. 
 
 
 <!-- =============================== -->
@@ -106,7 +107,6 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 **End-to-End Vehicle Autonomy**, *Boston University, College of Engineering*
 - Implemented policy-function using reinforcement learning, imitation learning, and behavior cloning approaches.
 - The policy function stage comprises of a CNN and a FCN for mapping images to car control commands.
-- Secured **second prize** in class competition. 
 
 <!-- =============================== -->
 <!-- =============================== -->
@@ -114,8 +114,9 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Underwater Signal Simulator**, *Naval Physical and Oceanographic Laboratory*
-- Designed fast signal simulator for underwater sensor arrays: uniform linear arrays (ULAs) and planar arrays. 
+- Authored fast signal simulator for underwater sensor arrays: uniform linear arrays (ULAs) and uniform planar array (UPAs).
 - Engineered MATLAB-based vectorized signal simulator for diverse ocean environments and sensor arrays.
+- Involved designing efficient ray-tracing and simulating doppler shifting and other signal propagation characteristics. 
 - Developed to assist and assess sonar imaging algorithms. Achieved 7x speed by further translating to CUDA C.
 
 <!-- =============================== -->
@@ -124,9 +125,11 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Computational Sonar Imaging**, *Naval Physical and Oceanographic Laboratory*
-- Realised **4** computational imaging algorithms **each** for front-looking and side-scan imaging SONARs.
-- Wrote MATLAB pipelines for beamforming-based imaging, employing full-aperture, dynamic-aperture, constant range-cell, and variable range-cell methods. 
+- Realised **4** beamforming-based computational imaging algorithms **each** for front-looking SONAR and side-scan SONAR.
+- Wrote MATLAB pipelines employing full-aperture, dynamic-aperture, constant range-cell, and variable range-cell methods. 
 - Wrote vectorized MATLAB code for a low latency implementation.
+- Setup test-benches with physics-based signal simulation pipelines and imaging pipelines to mimic real-time performance.
+
 
 <!-- =============================== -->
 <!-- =============================== -->
@@ -134,10 +137,11 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **DSP Firmware**, *Naval Physical and Oceanographic Laboratory*
-- Designed and developed DSP firmware with functionalities meeting client specifications and project constraints.
-- Involves signal detection using matched-filtering and processing detected signal according to system mode.
+- Created DSP firmware with multiple modes and functionalities meeting client specifications and project constraints. 
+- Modes involved match-filtering for signal detection, and signal processing based on the current mode of operation. 
 - Programmed, tested, and integrated functionalities in MATLAB; later translated to C (primarily C89).
 - Unified, tested, and assessed DSP firmware for deployment on TIVA-C, an ARM Cortex-M4F based MCU.
+- 
 
 <!-- =============================== -->
 <!-- =============================== -->
@@ -145,9 +149,10 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 <!-- =============================== -->
 <!-- =============================== -->
 **Attendance Registration Using Face Recognition**, *College of Engineering Trivandrum*
-- Created an attendance registration system that uses a deep learning pipeline to deploy in a classroom setting. 
-- The machine learning stage consists of a CNN-based feature-extractor and a FCN based feature-classifier. 
-- Submitted, presented and showcased system to project committee, faculty, and students as part of curriculum.
+- Built an attendance registration system using a deep learning pipeline to deploy in a classroom setting. 
+- The machine learning stage consists of a CNN-based feature-extractor and a FCN based feature-classifier.
+- The final attendance registration pipeline produced *precision* $ = **98.4%**, *recall* = **98.4%** and an *F-1 score* of **0.984**.
+- Submitted, presented and showcased system to project committee, faculty, and students as part of curriculum.j
 
 <!-- =============================== -->
 <!-- =============================== -->
