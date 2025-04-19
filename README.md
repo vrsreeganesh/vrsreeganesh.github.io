@@ -238,6 +238,7 @@ The project is written in C++ (with LibTorch as primary library) and  is current
 ### Self Learning
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. 
 - Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction. MIT Press.
+- Kirk, D. B., & Hwu, W.-m. W. (2016). Programming massively parallel processors: A hands-on approach (3rd ed.). Morgan Kaufmann.
 
 <!-- Contact = Contact = Contact = Contact -->
 <!-- Contact = Contact = Contact = Contact -->
