@@ -1,12 +1,12 @@
 # About Me
 *TL;DR: I'm pretty good at context-agnostic Signal Processing, Machine/Deep Learning and High Performance Computing.*
 
-I am a *Master of Science: Electrical and Computer Engineering* graduate from the Department of Electrical and Computer Engineering at Boston University, previously interned at Intuitive Surgical, in the division of the Advanced Imaging and Intelligence for Summer 2024. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI. 
+I am a Visiting Researcher and recent *Master of Science: Electrical and Computer Engineering* graduate from College of Engineering, Boston University and a previous intern at Intuitive Surgical division of Advanced Imaging and Intelligence. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI. 
 
-My endeavours has also allowed me to gain valuable experience and proficiency in the fields of Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR and High-Performance-Computing Programming. I firmly believe that the successful research and development of projects necessitates a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains.
+My endeavors have allowed me to gain valuable experience and proficiency in Applied Signal Processing & Deep Learning: Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR, and High-Performance-Computing Programming. I firmly believe that creative and successful R&D stems from a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains. That being said, I have a soft spot for projects that involve theorizing to low-latency builds. 
 
 ## Research Interests
-Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. Currently, I'm learning how to build low-latency C++ pipelines for such pipelines. While building a pipeline that works is a great achievement, building a pipeline that produces outputs faster is even better.
+Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. Currently, I'm learning how to build low-latency C++ pipelines for such pipelines. While building a pipeline that works is a great achievement, building a pipeline that produces outputs faster is even better. Professionally, I'm investigating low-latency deep neural methods to improve computational imaging methods without performance trade-offs. 
 
 ### Key Expertise:
 - *Domains*: Signal Processing: Audio, Speech and Image, Computational Imaging, Machine Learning, Machine Vision, Supervised, Unsupervised, and Reinforcement Learning.
@@ -20,7 +20,9 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 
 
 ## Experience
-<!-- - **MS Project Intern**, Yobe Inc
+<!-- - **Visiting Researcher**, Computational Imaging & Systems Laboratory, BU
+    - Currently researching fast implicit neural representations to advance state-of-the-art methods in Ptychography.
+- **MS Project Intern**, Yobe Inc
     - Designed and trained a Wave-U-Net variant to reduce black-box ASR transcription errors (word-error-rate).
     - Achieved WER reductions on OpenAI Whisper: **6.7%** at SNR = 3, **4.2%** at SNR = 6 and **1.37%** at SNR = 9.
 - **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, *Intuitive Surgical*
@@ -239,6 +241,8 @@ The project is written in C++ (with LibTorch as primary library) and  is current
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. 
 - Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction. MIT Press.
 - Kirk, D. B., & Hwu, W.-m. W. (2016). Programming massively parallel processors: A hands-on approach (3rd ed.). Morgan Kaufmann.
+- Guntheroth, Kurt. Optimized C++: Proven Techniques for Heightened Performance. O'Reilly Media, 2015.
+- Hennessy, John L., and David A. Patterson. Computer Architecture: A Quantitative Approach. 6th ed., Morgan Kaufmann, 2017.
 
 <!-- Contact = Contact = Contact = Contact -->
 <!-- Contact = Contact = Contact = Contact -->
