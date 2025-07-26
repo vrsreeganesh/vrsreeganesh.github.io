@@ -1,7 +1,9 @@
 # About Me
 *TL;DR: I'm pretty good at context-agnostic Signal Processing, Machine/Deep Learning and High Performance Computing.*
 
-I am a Visiting Researcher and recent *Master of Science: Electrical and Computer Engineering* graduate from College of Engineering, Boston University and a previous intern at Intuitive Surgical division of Advanced Imaging and Intelligence. My academic background, expertise, and interests are primarily centered around the domains of Applied Signal Processing and AI. 
+I'm a Visiting Researcher in Computational Imaging Systems Laboratory at Boston University, where I'm building fast NeRF-based methods for ptychographic pipelines. During graduate school, my areas of focus were various topics in Applied Signal Processing and Deep Learning. 
+
+Professionally, I've had the privilege of working in state-of-the-art environments in multiple industries. During my time in defense R&D, I built signal processing pipelines for SONAR technologies ranging from uniform-linear-array systems to SOTA synthetic-aperture imaging systems. Most recently, I also had the opportunity to intern at Intuitive Surgical in the AI&I division, where I built imaging stages and enabled integration of R&D pipeline with CUDA-backend. 
 
 My endeavors have allowed me to gain valuable experience and proficiency in Applied Signal Processing & Deep Learning: Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR, and High-Performance-Computing Programming. I firmly believe that creative and successful R&D stems from a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains. That being said, I have a soft spot for projects that involve theorizing to low-latency builds. 
 
@@ -20,29 +22,7 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 
 
 ## Experience
-<!-- - **Visiting Researcher**, Computational Imaging & Systems Laboratory, BU
-    - Currently researching fast implicit neural representations to advance state-of-the-art methods in Ptychography.
-- **MS Project Intern**, Yobe Inc
-    - Designed and trained a Wave-U-Net variant to reduce black-box ASR transcription errors (word-error-rate).
-    - Achieved WER reductions on OpenAI Whisper: **6.7%** at SNR = 3, **4.2%** at SNR = 6 and **1.37%** at SNR = 9.
-- **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, *Intuitive Surgical*
-    - Designed and implemented multiple imaging stages in Matlab and CUDA, to enhance pipeline for **3** surgical procedures.
-    - Wrote MATLAB library to integrate a proprietary inhouse CUDA framework with their legacy MATLAB imaging pipelines.
-    - Wrote scripts for automated testing of prototype imaging stage. Identified weaknesses and provided feedback.
-- **Electronics Engineer**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-    - Designed fast signal simulator for underwater sensor arrays: uniform linear arrays (ULAs) and planar arrays. 
-    - Realised **4** computational imaging pipelines **each** for front-looking, side-scan, and synthetic-aperture SONARs.
-- **Project Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-    - Designed and developed DSP firmware with functionalities meeting client specifications and project constraints.
-    - Unified, tested, and assessed DSP firmware for deployment on TIVA-C, an ARM Cortex-M4F based MCU.
-- **Undergraduate Intern**, Naval Physical and Oceanographic Laboratory, *Defence Research and Development Organisation*
-    - Studied over 200 publications and reproduced 30+ image classical and data-driven steganography methods in MATLAB and Python. 
-    - Conducted to generate metrics for baseline comparisons added to graduate student's thesis and publications. 
-- **Undergraduate Assistant**, Department of Electronics and Communication Engineering, College of Engineering Trivandrum, *Dr. A.P.J. Abdul Kalam Technical University*
-    - Developed and simulated advanced beamforming techniques using MATLAB for underwater SONAR systems, focusing on spatial filtering and signal enhancement.  
-    - Analyzed noise effects and beam steering to optimize signal detection under varying SNR conditions.   -->
-
-
+- **Visiting Researcher**, [Computational Imaging Systems Lab](https://sites.bu.edu/tianlab/)
 - **MS Project Intern**, [Yobe Inc](https://yobeinc.com)
 - **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, [*Intuitive Surgical*](https://www.intuitive.com/en-us)
 - **Electronics Engineer**, [Naval Physical and Oceanographic Laboratory](https://www.drdo.gov.in/drdo/labs-and-establishments/naval-physical-oceanographic-laboratory-npol), *Defence Research and Development Organisation*
@@ -61,18 +41,6 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Designed a custom loss function leveraging ASR system properties, STFT features, and auditory perception.
 - Achieved WER reductions on OpenAI Whisper: **6.7%** at SNR = 3, **4.2%** at SNR = 6 and **1.37%** at SNR = 9.
 - Code, Poster and Paper available at: [Speech Enhancement for Robust Automatic Speech Recognition](https://github.com/vrsreeganesh/asr-enhancer)
-
-
-<!-- =============================== -->
-<!-- =============================== -->
-<!-- =============================== -->
-<!-- =============================== -->
-<!-- =============================== -->
-**Advanced Imaging Internship**, *Advanced Imaging & Intelligence Group, Intuitive*
-- Designed and implemented multiple imaging stages in Matlab and CUDA, to enhance the existing pipeline by highlighting procedure-specific features for **3** surgical procedures, enabling faster procedure completion.
-- Wrote MATLAB library to integrate proprietary inhouse CUDA framework with legacy MATLAB imaging pipelines to achieve near real-time performance.
-- Assessed the robustness of a prototype imaging stage. Wrote scripts for automated and rigorous testing to identify weaknesses, document associated metrics, all to provide actionable feedback.
-- Initiated and produced documentation for in-house High Performance Computing library to enable company-wide adoption. 
 
 
 <!-- =============================== -->
@@ -143,7 +111,6 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Modes involved match-filtering for signal detection, and signal processing based on the current mode of operation. 
 - Programmed, tested, and integrated functionalities in MATLAB; later translated to C (primarily C89).
 - Unified, tested, and assessed DSP firmware for deployment on TIVA-C, an ARM Cortex-M4F based MCU.
-- 
 
 <!-- =============================== -->
 <!-- =============================== -->
