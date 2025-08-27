@@ -5,10 +5,10 @@ I'm a Visiting Researcher in Computational Imaging Systems Laboratory at Boston 
 
 Professionally, I've had the privilege of working in state-of-the-art environments in multiple industries. During my time in defense R&D, I built signal processing pipelines for SONAR technologies ranging from uniform-linear-array systems to SOTA synthetic-aperture imaging systems. Most recently, I also had the opportunity to intern at Intuitive Surgical in the AI&I division, where I built imaging stages and enabled integration of R&D pipeline with CUDA-backend. 
 
-My endeavors have allowed me to gain valuable experience and proficiency in Applied Signal Processing & Deep Learning: Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR, and High-Performance-Computing Programming. I firmly believe that creative and successful R&D stems from a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains. That being said, I have a soft spot for projects that involve theorizing to low-latency builds. 
+My endeavors have allowed me to gain valuable experience and proficiency in Applied Signal Processing & Deep Learning: Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR, and High-Performance-Computing Programming. I firmly believe that creative and successful R&D stems from a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains. That being said, I have a soft spot for projects that involve going from theorizing, all the way to low-latency builds. 
 
 ## Research Interests
-Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. Currently, I'm learning how to build low-latency C++ pipelines for such pipelines. While building a pipeline that works is a great achievement, building a pipeline that produces outputs faster is even better. Professionally, I'm investigating low-latency deep neural methods to improve computational imaging methods without performance trade-offs. 
+Due to my interest in applied signal processing, most of my projects lies in Signal & Image Processing, Computer Vision, Robotic Perception, Machine & Deep Learning. Currently, I'm learning how to build low-latency C++ pipelines for these topics. While building an effective pipeline is a great achievement, building a faster pipeline is even better. Professionally, I'm investigating low-latency deep neural methods to improve computational imaging methods without performance trade-offs. 
 
 ### Key Expertise:
 - *Domains*: Signal Processing: Audio, Speech and Image, Computational Imaging, Machine Learning, Machine Vision, Supervised, Unsupervised, and Reinforcement Learning.
@@ -219,6 +219,6 @@ The project is written in C++ (with LibTorch as primary library) and  is current
 <!-- Contact = Contact = Contact = Contact -->
 <!-- Contact = Contact = Contact = Contact -->
 ## Contact
-- *Boston University Mail*: vrs [at] bu [dot] edu  (I highly suggest using this)
+- *primary email*: vrs [at] bu [dot] edu  (I highly suggest using this)
 - *personal mail*: vrsreeganesh [at] gmail [dot] com  
 - *alternative*: vrsreeganesh [at] cet [dot] ac [dot] in
