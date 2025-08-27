@@ -210,6 +210,8 @@ The project is written in C++ (with LibTorch as primary library) and  is current
 - Kirk, D. B., & Hwu, W.-m. W. (2016). Programming massively parallel processors: A hands-on approach (3rd ed.). Morgan Kaufmann.
 - Guntheroth, Kurt. Optimized C++: Proven Techniques for Heightened Performance. O'Reilly Media, 2015.
 - Hennessy, John L., and David A. Patterson. Computer Architecture: A Quantitative Approach. 6th ed., Morgan Kaufmann, 2017.
+- Sehr, V., & Andrist, B. (2018). C++ High Performance. Packt Publishing.
+- Bancila, M. (2017). Modern C++ Programming Cookbook. Packt Publishing.
 
 <!-- Contact = Contact = Contact = Contact -->
 <!-- Contact = Contact = Contact = Contact -->
