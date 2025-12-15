@@ -1,9 +1,11 @@
 # About Me
 *TL;DR: I'm pretty good at context-agnostic Signal Processing, Machine/Deep Learning and High Performance Computing.*
 
-I'm a Visiting Researcher in Computational Imaging Systems Laboratory at Boston University, where I'm building fast NeRF-based methods for ptychographic pipelines. During graduate school, my areas of focus were various topics in Applied Signal Processing and Deep Learning. 
+I'm a Senior Engineer at KLA Ann Arbor, where I build tools for process control and yield management for the semiconductor industry. 
 
-Professionally, I've had the privilege of working in state-of-the-art environments in multiple industries. During my time in defense R&D, I built signal processing pipelines for SONAR technologies ranging from uniform-linear-array systems to SOTA synthetic-aperture imaging systems. Most recently, I also had the opportunity to intern at Intuitive Surgical in the AI&I division, where I built imaging stages and enabled integration of R&D pipeline with CUDA-backend. 
+Professionally, I've had the privilege of working in state-of-the-art environments in multiple industries. During my time in defense R&D, I built signal processing pipelines for SONAR technologies ranging from uniform-linear-array systems to SOTA synthetic-aperture imaging systems. I also had the opportunity to intern at Intuitive Surgical in the AI&I division, where I built imaging stages and enabled integration of R&D pipeline with CUDA-backend. And prior to joining KLA, I was a Visiting Researcher in Computational Imaging Systems Laboratory at Boston University, where I built fast NeRF-based methods for ptychographic pipelines and accelerated pipelines for multi-camera array microscope.
+
+During graduate school, my areas of focus were various topics in Applied Signal Processing and Deep Learning. 
 
 My endeavors have allowed me to gain valuable experience and proficiency in Applied Signal Processing & Deep Learning: Computer Vision, Computational Imaging, Autonomous Driving, Audio, SONAR, and High-Performance-Computing Programming. I firmly believe that creative and successful R&D stems from a deep understanding of a core domain, complemented by a working knowledge of related domains. Thus my project selection approach is rooted in fundamental principles rather than being constrained by specific domains. That being said, I have a soft spot for projects that involve going from theorizing, all the way to low-latency builds. 
 
@@ -22,6 +24,7 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 
 
 ## Experience
+- **Senior Algorithm Engineer**, [KLA](https://www.kla.com)
 - **Visiting Researcher**, [Computational Imaging Systems Lab](https://sites.bu.edu/tianlab/)
 - **MS Project Intern**, [Yobe Inc](https://yobeinc.com)
 - **Advanced Imaging SW Engr Intern**, Advanced Imaging and Intelligence, [*Intuitive Surgical*](https://www.intuitive.com/en-us)
@@ -195,7 +198,7 @@ This side-project is an attempt to bring together my skills in beamforming-based
 
 The objectives involve the creation of signal simulation pipelines to mimic the signals received by the uniform-linear-arrays of the AUV in a real underwater environment, imaging pipeline to produce acoustic images from the simulated signals using beamforming techniques, and a control pipeline that takes the acoustic images and produce state-to-action mappings to control the AUV. 
 
-The project is written in C++ (with LibTorch as primary library) and  is currently under development, but you can explore its progress at [AUV Repository](https://github.com/vrsreeganesh/AUV/tree/main).
+The project is written in C++ (with STL as primary library) and  is currently under development, but you can explore its progress at [AUV Repository](https://github.com/vrsreeganesh/AUV/tree/main).
 
 
 
