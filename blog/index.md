@@ -1,4 +1,17 @@
 ---
+layout: blog
+title: Blog
+---
+
+
+
+
+
+
+
+
+
+<!-- ---
 layout: default
 title: Blog
 ---
@@ -11,3 +24,4 @@ title: Blog
   </li>
 {% endfor %}
 </ul>
+ -->
