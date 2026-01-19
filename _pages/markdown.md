@@ -15,11 +15,11 @@ redirect_from:
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
-  * _publications/
+  <!-- * _publications/ -->
   * _portfolio/
   * _posts/
-  * _teaching/
-  * _talks/
+  <!-- * _teaching/ -->
+  <!-- * _talks/ -->
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
@@ -453,4 +453,3 @@ This allows you to denote <var>variables</var>.
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
