@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/yours-truly.jpg"
+  avatar           : "yours-truly.jpg"
   name             : "Sreeganesh"
   pronouns         : "he/his"  
   bio              : "Signal Processing, Machine Learning & HPC"
