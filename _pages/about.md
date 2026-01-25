@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Webpage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,7 +33,7 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 
 
 
-## Experience
+## Employment
 - **Senior Algorithm Engineer**, [KLA](https://www.kla.com)
 - **Visiting Researcher**, [Computational Imaging Systems Lab](https://sites.bu.edu/tianlab/)
 - **MS Project Intern**, [Yobe Inc](https://yobeinc.com)
