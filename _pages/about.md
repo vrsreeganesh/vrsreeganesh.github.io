@@ -134,7 +134,7 @@ Due to my interest in applied signal processing, most of my projects lies in Sig
 - Built an attendance registration system using a deep learning pipeline to deploy in a classroom setting. 
 - The machine learning stage consists of a CNN-based feature-extractor and a FCN based feature-classifier.
 - The final attendance registration pipeline produced *precision* $ = **98.4%**, *recall* = **98.4%** and an *F-1 score* of **0.984**.
-- Submitted, presented and showcased system to project committee, faculty, and students as part of curriculum.j
+- Submitted, presented and showcased system to project committee, faculty, and students as part of curriculum.
 
 <!-- =============================== -->
 <!-- =============================== -->
@@ -225,6 +225,7 @@ The project is written in C++ (with STL as primary library) and  is currently un
 - Hennessy, John L., and David A. Patterson. Computer Architecture: A Quantitative Approach. 6th ed., Morgan Kaufmann, 2017.
 - Sehr, V., & Andrist, B. (2018). C++ High Performance. Packt Publishing.
 - Bancila, M. (2017). Modern C++ Programming Cookbook. Packt Publishing.
+- Daniel M. Larson (2025). Ultra Low Latency C++: Practical Low Latency Patterns and Kernel Bypass Networking for High Frequency Trading.
 
 <!-- Contact = Contact = Contact = Contact -->
 <!-- Contact = Contact = Contact = Contact -->
